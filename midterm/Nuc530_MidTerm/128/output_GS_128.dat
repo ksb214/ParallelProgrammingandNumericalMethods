@@ -1,0 +1,18 @@
+Code Name: main
+Version Number: 1.0
+Author Name: Kamalesh Bhambare 
+Date and time of execution: Sat Mar 15 23:35:00 2008
+
+Input check...successful.
+
+Number of cells per dimension = 128
+Uniform distributed source strength = 1
+Thermal conductivity = 1
+Relative convergence criterion = 1e-06
+Number of iterations used during solution = 60000
+Iterative method used = Gauss-Seidel 
+Number of iterations required for the Gauss-Seidel = 10987
+T(0.25,0.25,0.25) = 0.02998292664042003
+T(0.5,0.5,0.5) = 0.05611449599628112
+T(0.75,0.75,0.75) = 0.02998482712540874
+Execution time = 10492.052704 seconds 

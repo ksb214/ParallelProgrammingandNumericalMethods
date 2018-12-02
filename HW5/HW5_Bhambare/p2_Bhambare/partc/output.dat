@@ -1,0 +1,17 @@
+Input check...successful.
+
+Code Name: main
+Version Number: 1.0
+Author Name: Kamalesh Bhambare 
+Date and time of execution: Sun Mar 30 01:14:55 2008
+
+Radius of sphere          = 10
+Inside radius of sphere   = 0.8
+Outside radius of sphere  = 0.9
+Number of histories       = 50000000
+Seed for random number    = 1
+Volume of sphere          = 4188.67
+Standard deviation        = 0.565056
+Volume of spherical shell = 0.908942
+Standard deviation        = 0.000299158
+Execution time = 63 seconds 

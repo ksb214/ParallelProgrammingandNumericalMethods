@@ -1,0 +1,18 @@
+ 
+ 
+Job started on unisys3.hpc.aset.psu.edu at Mon Mar 31 13:08:46 EDT 2008
+ I am thread # 0 of 4
+ I am thread # 3 of 4
+ I am thread # 1 of 4
+ I am thread # 2 of 4
+ I am thread # 0 of 4
+ I am thread # 1 of 4
+ I am thread # 2 of 4
+ I am thread # 3 of 4
+
+real	3m3.359s
+user	1m53.003s
+sys	4m39.336s
+ 
+Job Ended at Mon Mar 31 13:11:50 EDT 2008
+ 
