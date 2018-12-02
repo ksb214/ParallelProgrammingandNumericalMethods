@@ -1,0 +1,21 @@
+Code Name: main
+Version Number: 1.0
+Author Name: Kamalesh Bhambare 
+Date and time of execution: Wed Apr 30 21:11:25 2008
+
+Input check...successful.
+
+Number of cells per dimension = 4
+Uniform distributed source strength = 1
+Thermal conductivity = 1
+Relative convergence criterion = 1e-06
+Number of iterations used during solution = 2000
+Number of processors used during solution = 3
+Iterative method used = SOR
+Optimal SOR weight = 1.17177 
+Number of iteration used  = 11
+Maximum iteration residual = 4.75158e-07
+T(0.25, 0.25, 0.25) = 0.0269607832248164
+T(0.5, 0.5, 0.5) = 0.0514705811215527
+T(0.75, 0.75, 0.75) = 0.0269607832248164
+Execution time = 0.07 seconds 

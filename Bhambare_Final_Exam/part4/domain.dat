@@ -1,0 +1,4 @@
+Total number of processes is 3
+Process: 0 k_min: 1 k_max: 1 left_proc: -1  right_proc: 1
+Process: 1 k_min: 2 k_max: 2 left_proc: 0  right_proc: 2
+Process: 2 k_min: 3 k_max: 3 left_proc: 1  right_proc: -1

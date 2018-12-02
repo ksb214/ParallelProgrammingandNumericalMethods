@@ -1,0 +1,20 @@
+Code Name: main
+Version Number: 1.0
+Author Name: Kamalesh Bhambare 
+Date and time of execution: Thu May  1 22:32:29 2008
+
+Input check...successful.
+
+Number of cells per dimension = 4
+Uniform distributed source strength = 1
+Thermal conductivity = 1
+Relative convergence criterion = 1e-06
+Number of iterations used during solution = 2000
+Number of processors used during solution = 3
+Iterative method used = Point Jacobi 
+Number of iteration used  = 38
+Maximum iteration residual = 8.46922e-07
+T(0.25, 0.25, 0.25) = 0.0269607420937688
+T(0.5, 0.5, 0.5) = 0.0514704690260046
+T(0.75, 0.75, 0.75) = 0.0269607420937688
+Execution time = 0.07 seconds 
