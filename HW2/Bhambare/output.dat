@@ -1,0 +1,14 @@
+Code Name: main
+Version Number: 1.0
+Author Name: Kamalesh Bhambare 
+Date and time of execution: Thu Jan 31 11:07:34 2008
+
+Radius of sphere          = 10
+Inside radius of sphere   = 0.8
+Outside radius of sphere  = 0.9
+Number of histories       = 100000
+Seed for random number    = 1
+Volume of sphere          = 4197.2
+Standard deviation        = 4.32274
+Volume of spherical shell = 0.914516
+Standard deviation        = 0.00062111
